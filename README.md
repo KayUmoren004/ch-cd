@@ -34,6 +34,8 @@ A web-based social deduction word game built with Next.js 14, Tailwind CSS, shad
    ```bash
    npm run dev
    ```
+4. **Preview content**
+   - Visit `/dev/content-editor` to browse the seeded category boards.
 
 ## Project Structure
 
