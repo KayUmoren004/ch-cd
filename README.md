@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Cloak & Clue
+
+A web-based social deduction word game built with Next.js 14, Tailwind CSS, shadcn/ui and Firebase.
+
+## Naming Brainstorm
+1. Blend In
+2. Cloak & Clue ✅
+3. Veiled Word
+4. Undercover Word
+5. Mimicry
+6. Hidden Hint
+7. Cipher Circle
+8. Camouflage Party
+9. Masked Clues
+10. Imposter's Clue
+
+"Cloak & Clue" is the chosen name used throughout the project.
 
 ## Getting Started
 
-First, run the development server:
+1. **Install dependencies**
+   ```bash
+   npm install
+   ```
+2. **Firebase Setup**
+   - Create a Firebase project and enable Anonymous Auth and Firestore.
+   - Configure env vars in `.env.local`:
+     ```env
+     NEXT_PUBLIC_FIREBASE_API_KEY=your_key
+     NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_domain
+     NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_project
+     ```
+3. **Run the dev server**
+   ```bash
+   npm run dev
+   ```
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Project Structure
+
+```
+src/
+  app/                 // Next.js routes
+  components/          // UI components
+  lib/                 // Firebase, game logic
+  styles/              // Tailwind helpers
+  data/categories.seed.json
+functions/             // Cloud Function stubs
+firestore.rules        // Firestore security rules
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Testing
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Run lints and tests:
+```bash
+npm run lint
+npm test # (no tests yet)
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Post-MVP Polish Plan
+- Better styling and animations using shadcn/ui primitives.
+- Real-time countdown sync and presence heartbeats.
+- Profanity filter for user-generated clues.
+- Robust unit tests for security rules and game logic.
 
-## Learn More
+## Web Store Checklist
+- App icons and splash images (512×512, 1024×1024).
+- Social preview image (1200×630).
+- Privacy policy and terms of service.
+- Responsive screenshots for mobile and desktop.
+- Store description and tags.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
