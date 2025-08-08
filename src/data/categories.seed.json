@@ -1,0 +1,1422 @@
+[
+  {
+    "categoryId": "0b14ec2b-d774-4473-ba6a-05327f0fd8d1",
+    "title": "Category 1",
+    "mode": "FAMILY",
+    "words": [
+      {
+        "wordId": "2406a269-1fa3-4bfb-ad8b-77c6fd2d338d",
+        "text": "Word 1-1"
+      },
+      {
+        "wordId": "7d85c5b3-0c12-48cb-8bdb-d5d1465d6826",
+        "text": "Word 1-2"
+      },
+      {
+        "wordId": "22c02dc9-d185-42ee-9e42-1e670c60ffb6",
+        "text": "Word 1-3"
+      },
+      {
+        "wordId": "9b6d9ce0-d3a9-4585-a4b3-88f332968b27",
+        "text": "Word 1-4"
+      },
+      {
+        "wordId": "ac0751ac-c454-4455-a85b-7ab3d5b1f9d9",
+        "text": "Word 1-5"
+      },
+      {
+        "wordId": "93863a95-4764-43a7-bc44-b7cab477e5af",
+        "text": "Word 1-6"
+      },
+      {
+        "wordId": "ba9dc13c-43d0-4c65-a9eb-8cfed874d184",
+        "text": "Word 1-7"
+      },
+      {
+        "wordId": "c6870da7-92d6-4d5e-b484-ca36397d9cb5",
+        "text": "Word 1-8"
+      },
+      {
+        "wordId": "064c66cf-39bf-4fec-af86-9d16d09e2de0",
+        "text": "Word 1-9"
+      },
+      {
+        "wordId": "12fa5f44-19b2-4d48-8f87-6504451d6317",
+        "text": "Word 1-10"
+      },
+      {
+        "wordId": "8b9c8e77-e6a8-42fa-9eee-5eea87ae0430",
+        "text": "Word 1-11"
+      },
+      {
+        "wordId": "347cf452-88f1-4080-9c7a-81b0e89b088c",
+        "text": "Word 1-12"
+      },
+      {
+        "wordId": "038de01e-8940-44e5-bfcb-1d24173ea908",
+        "text": "Word 1-13"
+      },
+      {
+        "wordId": "1fa73fbf-7b81-4fa0-9fff-2e4915b62b77",
+        "text": "Word 1-14"
+      },
+      {
+        "wordId": "47dee048-a7c2-441f-a7ce-c8767e771979",
+        "text": "Word 1-15"
+      },
+      {
+        "wordId": "6a3d2f63-d2e1-4f92-84ad-a46ecf3b0f8c",
+        "text": "Word 1-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "fccbaf7f-8fc4-4fda-bf2e-74e118b6e956",
+    "title": "Category 2",
+    "mode": "PARTY",
+    "words": [
+      {
+        "wordId": "71988b2b-f42f-47e0-8762-cdddc16b3471",
+        "text": "Word 2-1"
+      },
+      {
+        "wordId": "c22dbb65-3146-43c2-97a6-7fd2e132be2a",
+        "text": "Word 2-2"
+      },
+      {
+        "wordId": "72bfc029-285c-4154-a30e-49b6cecbcfa4",
+        "text": "Word 2-3"
+      },
+      {
+        "wordId": "632e5567-84b6-45fd-9dc3-bd275d178b5b",
+        "text": "Word 2-4"
+      },
+      {
+        "wordId": "cbaacad6-12ce-432e-a316-c766c5e6384a",
+        "text": "Word 2-5"
+      },
+      {
+        "wordId": "b8b01846-6871-40d9-a863-3c987f28aab4",
+        "text": "Word 2-6"
+      },
+      {
+        "wordId": "a186da20-2851-4eb3-b60f-2b2c161d6afe",
+        "text": "Word 2-7"
+      },
+      {
+        "wordId": "53c001d6-d6e5-4b18-9f51-5527327067a4",
+        "text": "Word 2-8"
+      },
+      {
+        "wordId": "3c400aba-7eff-497c-b631-ceaabcd8a530",
+        "text": "Word 2-9"
+      },
+      {
+        "wordId": "c5fe7c6f-fc45-4550-bd64-c9469ce1b897",
+        "text": "Word 2-10"
+      },
+      {
+        "wordId": "849bd1b6-72b0-4cbd-b8cd-4e2ce586cab4",
+        "text": "Word 2-11"
+      },
+      {
+        "wordId": "f42a6e00-5fff-4498-add4-89938e28adf4",
+        "text": "Word 2-12"
+      },
+      {
+        "wordId": "e57db86b-d05a-4f31-9cb3-558ebf804177",
+        "text": "Word 2-13"
+      },
+      {
+        "wordId": "70a83719-c2de-43b3-957e-7b76f7862a74",
+        "text": "Word 2-14"
+      },
+      {
+        "wordId": "72a0851a-5bd8-4df9-91c7-dce5dc9757dd",
+        "text": "Word 2-15"
+      },
+      {
+        "wordId": "5efe196f-ff79-42f2-aa74-8e7d864db814",
+        "text": "Word 2-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "76dfddfd-3f80-4e70-ba7f-9b1738a24569",
+    "title": "Category 3",
+    "mode": "FAMILY",
+    "words": [
+      {
+        "wordId": "21a87eb2-ff4c-48ad-9111-51a695fd0e76",
+        "text": "Word 3-1"
+      },
+      {
+        "wordId": "bd77f162-0d5d-455e-b3b1-27d0ea245c64",
+        "text": "Word 3-2"
+      },
+      {
+        "wordId": "4f60a30d-02bb-4be1-8eac-d512a197ef11",
+        "text": "Word 3-3"
+      },
+      {
+        "wordId": "4a10e0cc-a555-47c2-a324-f6a6caf6f98f",
+        "text": "Word 3-4"
+      },
+      {
+        "wordId": "c282e013-d70d-4467-bc38-7e30398b5310",
+        "text": "Word 3-5"
+      },
+      {
+        "wordId": "b8b1a3dc-9d3d-4402-8c99-fbff9ca0483d",
+        "text": "Word 3-6"
+      },
+      {
+        "wordId": "02785f22-c167-4cb5-9d61-1d3af717f31b",
+        "text": "Word 3-7"
+      },
+      {
+        "wordId": "0ac0c97f-9e48-4d4a-8a4a-942357ca9761",
+        "text": "Word 3-8"
+      },
+      {
+        "wordId": "170e4630-c633-42f6-9034-075869bf128a",
+        "text": "Word 3-9"
+      },
+      {
+        "wordId": "2b021482-5e2a-4846-9863-46816e94a9db",
+        "text": "Word 3-10"
+      },
+      {
+        "wordId": "7e7175ae-2859-4a93-b0d0-13b0c590b753",
+        "text": "Word 3-11"
+      },
+      {
+        "wordId": "5d9e5ba2-943c-487d-8b9e-a9a136e19bb6",
+        "text": "Word 3-12"
+      },
+      {
+        "wordId": "f2191081-c269-4231-acf8-799aacb8a964",
+        "text": "Word 3-13"
+      },
+      {
+        "wordId": "8f296b44-cec7-463c-8fe4-3a8643551ce3",
+        "text": "Word 3-14"
+      },
+      {
+        "wordId": "4e75fd45-b310-4d58-a6d5-7f261302bfb9",
+        "text": "Word 3-15"
+      },
+      {
+        "wordId": "5edfe8fb-215c-4d4e-a4e6-f2e83c95d77a",
+        "text": "Word 3-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "e7ffe319-4747-45f4-a672-5cb5d3a86598",
+    "title": "Category 4",
+    "mode": "PARTY",
+    "words": [
+      {
+        "wordId": "589def71-17a4-40d3-a73f-f8f9f427a93a",
+        "text": "Word 4-1"
+      },
+      {
+        "wordId": "e24a0c7d-58fd-49b3-b2fa-3624d3b4cc40",
+        "text": "Word 4-2"
+      },
+      {
+        "wordId": "614b1113-807c-46e8-9ff6-ab789decf7f3",
+        "text": "Word 4-3"
+      },
+      {
+        "wordId": "ace0b285-ffbc-4148-b18b-e1f4d00fec09",
+        "text": "Word 4-4"
+      },
+      {
+        "wordId": "13acd7a1-4a52-41ba-ad65-1856bd4198dd",
+        "text": "Word 4-5"
+      },
+      {
+        "wordId": "8579f407-c1d1-4adb-b6fa-e6ae5fcdcc1c",
+        "text": "Word 4-6"
+      },
+      {
+        "wordId": "e57a3f58-c396-4a60-93bd-ab6cd3c477fc",
+        "text": "Word 4-7"
+      },
+      {
+        "wordId": "cdbe7e0c-dff3-4b88-a4c8-2d0cb8b0ee02",
+        "text": "Word 4-8"
+      },
+      {
+        "wordId": "6b73a43a-9e9d-49a5-bf4e-577b2c9b0866",
+        "text": "Word 4-9"
+      },
+      {
+        "wordId": "de20d5c9-33c4-44cf-a181-992c97c71de2",
+        "text": "Word 4-10"
+      },
+      {
+        "wordId": "988c40ff-9edf-4d96-8118-8aa0c38eab6f",
+        "text": "Word 4-11"
+      },
+      {
+        "wordId": "52a54751-68d3-4e0c-842a-a3606d2faf5a",
+        "text": "Word 4-12"
+      },
+      {
+        "wordId": "998a145e-2cf9-4a10-bb47-fb3a240f3e5c",
+        "text": "Word 4-13"
+      },
+      {
+        "wordId": "5ed8a8f6-a4df-43eb-b9fd-ed9ebafc79d6",
+        "text": "Word 4-14"
+      },
+      {
+        "wordId": "70bf36c9-8792-40b4-8d0c-ba8048455e4f",
+        "text": "Word 4-15"
+      },
+      {
+        "wordId": "daf3f992-70ae-4e90-a049-1184e51a4ec8",
+        "text": "Word 4-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "09b83fcf-40da-4c0c-aa02-fff768a0493b",
+    "title": "Category 5",
+    "mode": "FAMILY",
+    "words": [
+      {
+        "wordId": "716d0a95-a3c0-4401-b062-c9affe45f467",
+        "text": "Word 5-1"
+      },
+      {
+        "wordId": "6231ad01-4d6f-45ac-b8fc-aaa9ef8aabab",
+        "text": "Word 5-2"
+      },
+      {
+        "wordId": "c86097b7-7c37-4b50-a29f-5440b788e8d2",
+        "text": "Word 5-3"
+      },
+      {
+        "wordId": "d43768e2-055e-40f3-aefc-9ab23e6ab0cf",
+        "text": "Word 5-4"
+      },
+      {
+        "wordId": "06cd4f27-7a5a-4855-8d1e-043e2679b02d",
+        "text": "Word 5-5"
+      },
+      {
+        "wordId": "07782bf2-875c-4ae5-adde-7a091a173b71",
+        "text": "Word 5-6"
+      },
+      {
+        "wordId": "9196349c-6dbd-475e-9c55-dba5b5a2fb5e",
+        "text": "Word 5-7"
+      },
+      {
+        "wordId": "1a95033e-b321-4587-ae79-c2434b7c14c7",
+        "text": "Word 5-8"
+      },
+      {
+        "wordId": "256a2acb-4bd7-410e-9ff2-ebd5f167d0aa",
+        "text": "Word 5-9"
+      },
+      {
+        "wordId": "695e1f3d-2ee0-40c1-a7a4-6c8d839cad11",
+        "text": "Word 5-10"
+      },
+      {
+        "wordId": "f12d29c7-6611-4f87-ba9e-c9ba14ca22e6",
+        "text": "Word 5-11"
+      },
+      {
+        "wordId": "2a884c2b-8d5d-49c2-91fc-bc10a0952966",
+        "text": "Word 5-12"
+      },
+      {
+        "wordId": "65e9b13e-0114-446d-b281-6b0c034a06d4",
+        "text": "Word 5-13"
+      },
+      {
+        "wordId": "ca68a26d-eb49-4aaf-877d-1024855e93d5",
+        "text": "Word 5-14"
+      },
+      {
+        "wordId": "bd4cc35c-c624-425c-a861-b6cf9ca99f56",
+        "text": "Word 5-15"
+      },
+      {
+        "wordId": "5b079fa8-b44c-4b18-9dd9-47cf669e9006",
+        "text": "Word 5-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "19e1f6ce-97d7-4e1c-ac7b-3f8a2cdd373d",
+    "title": "Category 6",
+    "mode": "PARTY",
+    "words": [
+      {
+        "wordId": "5f2b1a70-0206-48f5-a98f-ca6ec3a26ee2",
+        "text": "Word 6-1"
+      },
+      {
+        "wordId": "0ebcccef-8db7-40c2-b75b-2e27b781f08b",
+        "text": "Word 6-2"
+      },
+      {
+        "wordId": "1ea8a8f9-c660-4ed9-93a1-ef4e992f81ce",
+        "text": "Word 6-3"
+      },
+      {
+        "wordId": "0218a635-a033-4da3-9619-561f63a267a4",
+        "text": "Word 6-4"
+      },
+      {
+        "wordId": "215406ff-d475-4ca6-8fd4-77ed5f4a8d22",
+        "text": "Word 6-5"
+      },
+      {
+        "wordId": "d5fe329d-7c09-441b-83df-2c2d74c41814",
+        "text": "Word 6-6"
+      },
+      {
+        "wordId": "e278d917-9a88-4f1d-a7d6-284d3bf8d422",
+        "text": "Word 6-7"
+      },
+      {
+        "wordId": "00515dcd-c9a8-4b9c-89fa-595dbb31f3be",
+        "text": "Word 6-8"
+      },
+      {
+        "wordId": "ad78678e-e751-4c38-bd91-57893cfcb7c6",
+        "text": "Word 6-9"
+      },
+      {
+        "wordId": "75bbc49f-f4bf-4cd4-93f9-dc8cf7824e75",
+        "text": "Word 6-10"
+      },
+      {
+        "wordId": "842b5177-8ff3-41c4-a22f-ab2340dd8185",
+        "text": "Word 6-11"
+      },
+      {
+        "wordId": "8b0bdcdc-e15d-47c1-9a3f-27c6593b11b6",
+        "text": "Word 6-12"
+      },
+      {
+        "wordId": "fe6f7810-3df9-4eb4-9979-b08c58f24ef3",
+        "text": "Word 6-13"
+      },
+      {
+        "wordId": "4f566064-6c67-40ee-813e-07a455084820",
+        "text": "Word 6-14"
+      },
+      {
+        "wordId": "5854f579-5dad-485d-a436-71d6881f0549",
+        "text": "Word 6-15"
+      },
+      {
+        "wordId": "f5d3a2a4-b526-4fd0-9612-44e6026c32dd",
+        "text": "Word 6-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "e13fd26f-0a3f-4a9c-bed5-af7e65240c0a",
+    "title": "Category 7",
+    "mode": "FAMILY",
+    "words": [
+      {
+        "wordId": "1d6c3144-fd9b-484c-89d0-2ed16510a256",
+        "text": "Word 7-1"
+      },
+      {
+        "wordId": "162e06cc-9d1a-45ac-9043-e21ed795461d",
+        "text": "Word 7-2"
+      },
+      {
+        "wordId": "18dd9cc2-23cc-48ab-b847-36c36be19fda",
+        "text": "Word 7-3"
+      },
+      {
+        "wordId": "179c0900-7fdb-4c6c-aeeb-02e3cda7d051",
+        "text": "Word 7-4"
+      },
+      {
+        "wordId": "115eaa95-2652-41fb-b767-a6d5fb47c1ee",
+        "text": "Word 7-5"
+      },
+      {
+        "wordId": "f108133c-d2b0-46db-a4a6-07efdc1ad07d",
+        "text": "Word 7-6"
+      },
+      {
+        "wordId": "5fcdfcc5-4455-438b-80f0-7aa5ddaa3c41",
+        "text": "Word 7-7"
+      },
+      {
+        "wordId": "4453d7bf-7670-443e-86a8-c741380a72cf",
+        "text": "Word 7-8"
+      },
+      {
+        "wordId": "03574666-9762-4009-82fb-eb4a1d81c225",
+        "text": "Word 7-9"
+      },
+      {
+        "wordId": "50e5a73d-7f54-417f-992e-806e16c5888a",
+        "text": "Word 7-10"
+      },
+      {
+        "wordId": "0085d848-c7ef-460f-b2fd-e0e0056eec4f",
+        "text": "Word 7-11"
+      },
+      {
+        "wordId": "f0432b6e-4f17-484a-a3dc-6277fa342b84",
+        "text": "Word 7-12"
+      },
+      {
+        "wordId": "e2896001-ae2d-4671-935e-f02edf80f945",
+        "text": "Word 7-13"
+      },
+      {
+        "wordId": "a0039c49-aec9-414a-b949-dc0cdf89e5e5",
+        "text": "Word 7-14"
+      },
+      {
+        "wordId": "0c6b49e1-856f-4f66-a127-90b6bbbcb969",
+        "text": "Word 7-15"
+      },
+      {
+        "wordId": "c16f764f-7b9f-4149-befe-1499d72080c6",
+        "text": "Word 7-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "b7718d75-e990-4a2a-a83e-d3145815e0d4",
+    "title": "Category 8",
+    "mode": "PARTY",
+    "words": [
+      {
+        "wordId": "cdcd0bab-0f24-4705-9145-d3bbf1eea8e7",
+        "text": "Word 8-1"
+      },
+      {
+        "wordId": "c51d61f8-a797-4127-a8b1-5ccfa52bb044",
+        "text": "Word 8-2"
+      },
+      {
+        "wordId": "6746f019-297d-40b3-9941-a1e0f177e18c",
+        "text": "Word 8-3"
+      },
+      {
+        "wordId": "c154a38c-bb4a-46b7-9c42-612c421eafc4",
+        "text": "Word 8-4"
+      },
+      {
+        "wordId": "d205afdd-90ec-40f9-a760-d8b96b56c550",
+        "text": "Word 8-5"
+      },
+      {
+        "wordId": "4160d6b8-1ce7-4ad8-8653-75b81096d5ca",
+        "text": "Word 8-6"
+      },
+      {
+        "wordId": "f64275aa-28c9-4c7b-8254-0040a9a30394",
+        "text": "Word 8-7"
+      },
+      {
+        "wordId": "f41c0ccd-8e94-4a2a-8ab9-8dc782ca80e0",
+        "text": "Word 8-8"
+      },
+      {
+        "wordId": "c2172dff-27bd-4d05-8369-3fd51ece897f",
+        "text": "Word 8-9"
+      },
+      {
+        "wordId": "8b9359b5-7453-4f35-bba3-d86d6df89c76",
+        "text": "Word 8-10"
+      },
+      {
+        "wordId": "79f8d27d-07c2-401d-a921-fe35640d5d49",
+        "text": "Word 8-11"
+      },
+      {
+        "wordId": "c963ecee-1b24-4298-9e26-337fc8bc375b",
+        "text": "Word 8-12"
+      },
+      {
+        "wordId": "83a01a53-9629-4e14-8f72-abd3bc9c89df",
+        "text": "Word 8-13"
+      },
+      {
+        "wordId": "77523f40-7b60-4a8b-a942-b3158817022f",
+        "text": "Word 8-14"
+      },
+      {
+        "wordId": "f07288bc-af5f-4ec8-aee6-883ae0dfd978",
+        "text": "Word 8-15"
+      },
+      {
+        "wordId": "4e26931f-8ff2-42a6-ab2a-ba4c14cbb6f0",
+        "text": "Word 8-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "2b9c51cf-8644-4073-80cb-30f6e3431881",
+    "title": "Category 9",
+    "mode": "FAMILY",
+    "words": [
+      {
+        "wordId": "153d4937-9b3d-4f59-bee4-c62512eb339b",
+        "text": "Word 9-1"
+      },
+      {
+        "wordId": "8c32b0e6-c9d2-425e-9e07-b54c9657a174",
+        "text": "Word 9-2"
+      },
+      {
+        "wordId": "85dbcacf-7ce8-4679-8ac6-de2b16cadacf",
+        "text": "Word 9-3"
+      },
+      {
+        "wordId": "e0f082f7-3f38-4a7d-8cfb-9afb9548c33e",
+        "text": "Word 9-4"
+      },
+      {
+        "wordId": "8786ec1d-1f3a-4c38-bc85-d16406d8ad26",
+        "text": "Word 9-5"
+      },
+      {
+        "wordId": "bc75d234-4fd2-4158-b989-214f59c0ed93",
+        "text": "Word 9-6"
+      },
+      {
+        "wordId": "dc6bfc81-2cc1-4c42-815a-336f60e4939f",
+        "text": "Word 9-7"
+      },
+      {
+        "wordId": "394fcc5a-4736-475a-9e69-5642a863e2ae",
+        "text": "Word 9-8"
+      },
+      {
+        "wordId": "3e59a5f7-b87f-40a0-ac89-1f62006dbf42",
+        "text": "Word 9-9"
+      },
+      {
+        "wordId": "35604f59-4ac2-4f18-b0e0-238c5c44f708",
+        "text": "Word 9-10"
+      },
+      {
+        "wordId": "8d87be31-c55e-46fd-8133-2baeb177ad0d",
+        "text": "Word 9-11"
+      },
+      {
+        "wordId": "dc68981e-25dc-47e9-af4e-0be73f8e610a",
+        "text": "Word 9-12"
+      },
+      {
+        "wordId": "a67094c3-999c-4cf3-a9c9-d674bd81f24b",
+        "text": "Word 9-13"
+      },
+      {
+        "wordId": "8a0dd939-736d-455a-a851-75aced47c925",
+        "text": "Word 9-14"
+      },
+      {
+        "wordId": "a316af21-b176-4213-a413-daecd010bf87",
+        "text": "Word 9-15"
+      },
+      {
+        "wordId": "068c727c-f7e7-44eb-b7d9-c883855bdacc",
+        "text": "Word 9-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "7e68bc74-c8f0-46f3-921f-54578886e0cd",
+    "title": "Category 10",
+    "mode": "PARTY",
+    "words": [
+      {
+        "wordId": "3f262376-52ab-4154-80e4-69de57259f0e",
+        "text": "Word 10-1"
+      },
+      {
+        "wordId": "472bbb30-913c-4344-a48f-7e7640b687e7",
+        "text": "Word 10-2"
+      },
+      {
+        "wordId": "fb5564d9-40e2-409e-97c9-c215f4e53d45",
+        "text": "Word 10-3"
+      },
+      {
+        "wordId": "11e48e2d-c8dd-45d3-9b21-54366ee9728f",
+        "text": "Word 10-4"
+      },
+      {
+        "wordId": "d783086b-b5a6-4cd2-9d4b-19dd4d212832",
+        "text": "Word 10-5"
+      },
+      {
+        "wordId": "f3c14496-7d27-44bf-a4a1-8b947ec46567",
+        "text": "Word 10-6"
+      },
+      {
+        "wordId": "61388b3f-d858-459b-8681-4bf727aaa65e",
+        "text": "Word 10-7"
+      },
+      {
+        "wordId": "f25b45d2-8c02-4f67-948e-fb291384e38c",
+        "text": "Word 10-8"
+      },
+      {
+        "wordId": "024c1e0e-3d64-41db-9216-3942541c419f",
+        "text": "Word 10-9"
+      },
+      {
+        "wordId": "95101eb8-c4b2-4aa9-b143-3a6978b327ae",
+        "text": "Word 10-10"
+      },
+      {
+        "wordId": "fdb77a09-9175-4efc-9484-1de71c4bdd08",
+        "text": "Word 10-11"
+      },
+      {
+        "wordId": "f90aa8b8-1601-40b2-8f64-df3648c7417b",
+        "text": "Word 10-12"
+      },
+      {
+        "wordId": "d0b086b9-e407-49cc-b12c-411e93bf0517",
+        "text": "Word 10-13"
+      },
+      {
+        "wordId": "09300228-f432-4141-a09c-4c48fb0f604d",
+        "text": "Word 10-14"
+      },
+      {
+        "wordId": "be3ed86a-a7e5-4a4d-a0f3-12751e73fc47",
+        "text": "Word 10-15"
+      },
+      {
+        "wordId": "78cf6560-6ad2-482c-bea4-354fd2df7b92",
+        "text": "Word 10-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "a6d1d648-b684-4fc3-a657-a0fde74dcf11",
+    "title": "Category 11",
+    "mode": "FAMILY",
+    "words": [
+      {
+        "wordId": "5d7c2912-959d-4acd-9c33-879f7a0648de",
+        "text": "Word 11-1"
+      },
+      {
+        "wordId": "7a63bb1e-de98-4a43-b336-821abbfe47b4",
+        "text": "Word 11-2"
+      },
+      {
+        "wordId": "7a544099-76fd-4437-9768-5b987465c7af",
+        "text": "Word 11-3"
+      },
+      {
+        "wordId": "e199bb0f-7f49-47b4-8641-faa7c7f29182",
+        "text": "Word 11-4"
+      },
+      {
+        "wordId": "3897b5f6-b78a-40bf-9e82-1eccabf5d3cc",
+        "text": "Word 11-5"
+      },
+      {
+        "wordId": "3973d6dd-660b-4b53-90a8-6a7bb57b65e6",
+        "text": "Word 11-6"
+      },
+      {
+        "wordId": "4632431d-39a4-41a5-94e1-e48db2e2a1c9",
+        "text": "Word 11-7"
+      },
+      {
+        "wordId": "36d3e837-41b1-414c-aa93-f41070eed71b",
+        "text": "Word 11-8"
+      },
+      {
+        "wordId": "81d36ee4-cb3b-42ad-850a-e6e9a5ee94ec",
+        "text": "Word 11-9"
+      },
+      {
+        "wordId": "1d4d2141-9250-4d04-a2d3-e87c057a41c8",
+        "text": "Word 11-10"
+      },
+      {
+        "wordId": "d930d64a-a3dd-4e37-a655-924e6c837d78",
+        "text": "Word 11-11"
+      },
+      {
+        "wordId": "60bd7e72-4b69-4d1b-b762-15cf4f655662",
+        "text": "Word 11-12"
+      },
+      {
+        "wordId": "6709a2ff-c21e-40c1-9b74-2739ff03e9a4",
+        "text": "Word 11-13"
+      },
+      {
+        "wordId": "f5a671a4-1539-42a8-93ee-da7cc75b2641",
+        "text": "Word 11-14"
+      },
+      {
+        "wordId": "2f34cfd2-3795-46ce-97c1-ff79ba90203d",
+        "text": "Word 11-15"
+      },
+      {
+        "wordId": "0157c310-aff9-425b-bd02-660cc123d0e7",
+        "text": "Word 11-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "7130e97d-d498-45e7-87ea-7df9caa8c107",
+    "title": "Category 12",
+    "mode": "PARTY",
+    "words": [
+      {
+        "wordId": "4a9aa3ad-0a56-4b53-b86c-8c8b26378fe5",
+        "text": "Word 12-1"
+      },
+      {
+        "wordId": "b80e26b0-2e4d-4ada-9f15-1d521015b3b4",
+        "text": "Word 12-2"
+      },
+      {
+        "wordId": "de4f3512-54d7-4c6b-ac22-64d7e68eab8a",
+        "text": "Word 12-3"
+      },
+      {
+        "wordId": "714e840b-38c2-4243-bd39-afa8b519b8c8",
+        "text": "Word 12-4"
+      },
+      {
+        "wordId": "226c9690-0c6d-40b6-a1a9-a316160bf902",
+        "text": "Word 12-5"
+      },
+      {
+        "wordId": "48a83fb9-fe6e-4203-a68a-eb3799d6b13c",
+        "text": "Word 12-6"
+      },
+      {
+        "wordId": "8112e82c-a083-4c4b-9f3a-ffd1560333bc",
+        "text": "Word 12-7"
+      },
+      {
+        "wordId": "41ad0491-2368-456f-af70-1aa189dafba0",
+        "text": "Word 12-8"
+      },
+      {
+        "wordId": "d5a6bc39-09fb-43d9-921f-6174957fd964",
+        "text": "Word 12-9"
+      },
+      {
+        "wordId": "21c7fbe8-6d5b-41ee-b45c-d579899ea144",
+        "text": "Word 12-10"
+      },
+      {
+        "wordId": "526cdcf5-e58a-44ce-975f-23c5e0808735",
+        "text": "Word 12-11"
+      },
+      {
+        "wordId": "878eb502-91fd-495e-8718-72ebff3a9e1f",
+        "text": "Word 12-12"
+      },
+      {
+        "wordId": "0a7ff79f-4ec7-407b-a816-3fb5de9644ce",
+        "text": "Word 12-13"
+      },
+      {
+        "wordId": "4626ff02-3971-4a35-9b73-257410eef79e",
+        "text": "Word 12-14"
+      },
+      {
+        "wordId": "f3891340-760d-45d3-9da9-d6cf29165e4d",
+        "text": "Word 12-15"
+      },
+      {
+        "wordId": "3ff7efe9-85f1-453c-b905-c8ed60d36345",
+        "text": "Word 12-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "b46046ea-e598-4e81-892b-88df232108b5",
+    "title": "Category 13",
+    "mode": "FAMILY",
+    "words": [
+      {
+        "wordId": "9e59d606-dd47-4af4-bdfe-523beab07712",
+        "text": "Word 13-1"
+      },
+      {
+        "wordId": "29321cde-ada6-4f6d-a69f-36ba8fe57dc0",
+        "text": "Word 13-2"
+      },
+      {
+        "wordId": "809ed598-d05d-49ef-8709-5fcd972d7538",
+        "text": "Word 13-3"
+      },
+      {
+        "wordId": "d8bd167f-6a0b-4403-9258-673e43f8a956",
+        "text": "Word 13-4"
+      },
+      {
+        "wordId": "3363adda-274b-48ea-9251-e06422b1b1e9",
+        "text": "Word 13-5"
+      },
+      {
+        "wordId": "07e38cae-8c1e-4118-8761-d11342cf862f",
+        "text": "Word 13-6"
+      },
+      {
+        "wordId": "b4629022-540c-4127-a34b-73b5dee11a10",
+        "text": "Word 13-7"
+      },
+      {
+        "wordId": "f825f15d-d53f-460b-828c-d555a4ebd07a",
+        "text": "Word 13-8"
+      },
+      {
+        "wordId": "5a746457-6bc3-4fa8-b20c-3928f23e0ae0",
+        "text": "Word 13-9"
+      },
+      {
+        "wordId": "3245a1f3-7e11-4100-8a1d-114cfc841838",
+        "text": "Word 13-10"
+      },
+      {
+        "wordId": "510e19c3-1469-4d9f-8db0-27d6240bf970",
+        "text": "Word 13-11"
+      },
+      {
+        "wordId": "b97c9b21-f54c-4b74-bf2a-a2e97d8c5a66",
+        "text": "Word 13-12"
+      },
+      {
+        "wordId": "4bee8445-11c3-47de-a8d0-d5325f6f81ee",
+        "text": "Word 13-13"
+      },
+      {
+        "wordId": "771150eb-9be5-495d-aebf-3ef0772f612e",
+        "text": "Word 13-14"
+      },
+      {
+        "wordId": "f8fd63e1-d230-4288-9027-74992475fd23",
+        "text": "Word 13-15"
+      },
+      {
+        "wordId": "af273fef-a05d-41a2-b0de-01bdbb4501f5",
+        "text": "Word 13-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "c04a227f-0f01-4fcd-b7b4-9b64e3cea76b",
+    "title": "Category 14",
+    "mode": "PARTY",
+    "words": [
+      {
+        "wordId": "2c3a6d29-0c6d-40a9-b1f5-66ff964c6ed7",
+        "text": "Word 14-1"
+      },
+      {
+        "wordId": "d97d555d-85e4-4ae5-9d8e-d981fa50b867",
+        "text": "Word 14-2"
+      },
+      {
+        "wordId": "94aa7446-5645-4d59-81ec-4d2f3467306a",
+        "text": "Word 14-3"
+      },
+      {
+        "wordId": "4fc3ef39-b450-42bb-abb8-bfcb8337739d",
+        "text": "Word 14-4"
+      },
+      {
+        "wordId": "12fb30b0-5b46-4657-9d92-aade76a0a899",
+        "text": "Word 14-5"
+      },
+      {
+        "wordId": "b153056d-acf2-4485-89c4-b2101921fe55",
+        "text": "Word 14-6"
+      },
+      {
+        "wordId": "8029be2c-7cb0-4194-9525-b07b03689989",
+        "text": "Word 14-7"
+      },
+      {
+        "wordId": "84072ba3-0046-45e6-8555-f7666510e800",
+        "text": "Word 14-8"
+      },
+      {
+        "wordId": "0a323eb6-6af3-4708-bb2d-e94c2b722079",
+        "text": "Word 14-9"
+      },
+      {
+        "wordId": "fabb418e-78f5-47ec-85f4-1f23210dbc46",
+        "text": "Word 14-10"
+      },
+      {
+        "wordId": "426709d4-2390-4eb6-8ed7-ae6e1cf0c1c9",
+        "text": "Word 14-11"
+      },
+      {
+        "wordId": "6772ab18-3148-4d63-865d-9db3d1b597eb",
+        "text": "Word 14-12"
+      },
+      {
+        "wordId": "c34b5321-c3f8-4047-b6b6-3e63fd470eef",
+        "text": "Word 14-13"
+      },
+      {
+        "wordId": "f793a355-f554-4c2e-a6d8-3dfc24966371",
+        "text": "Word 14-14"
+      },
+      {
+        "wordId": "cbafdebb-bb3f-4b35-9e7b-17e42ed0d39c",
+        "text": "Word 14-15"
+      },
+      {
+        "wordId": "87507d06-1b4f-4ced-b093-4d4175d1ace2",
+        "text": "Word 14-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "971178eb-cf90-4a53-a784-e8c6910a2455",
+    "title": "Category 15",
+    "mode": "FAMILY",
+    "words": [
+      {
+        "wordId": "748d609e-c097-42eb-9324-985661431d24",
+        "text": "Word 15-1"
+      },
+      {
+        "wordId": "97579153-89de-4691-9dc9-020f2b2ce6a0",
+        "text": "Word 15-2"
+      },
+      {
+        "wordId": "c95224b3-a9a1-4bad-848f-d4b47a05d6af",
+        "text": "Word 15-3"
+      },
+      {
+        "wordId": "8c4ebcda-aa70-46f4-9289-ad1f80a0e55d",
+        "text": "Word 15-4"
+      },
+      {
+        "wordId": "de6c51b4-711c-450d-820a-cbf391c3d025",
+        "text": "Word 15-5"
+      },
+      {
+        "wordId": "08f0ec7f-1e42-4c3f-9071-f1144b8d64e2",
+        "text": "Word 15-6"
+      },
+      {
+        "wordId": "b0864d77-4e40-48e4-988a-d978255ba5d1",
+        "text": "Word 15-7"
+      },
+      {
+        "wordId": "15fad570-b32b-4778-822b-7820d34a4091",
+        "text": "Word 15-8"
+      },
+      {
+        "wordId": "d17c8f1c-9bf6-4db9-a064-b1a636fd6f6a",
+        "text": "Word 15-9"
+      },
+      {
+        "wordId": "e782dd0b-4c92-442a-a6d8-77ea10d569e8",
+        "text": "Word 15-10"
+      },
+      {
+        "wordId": "f1d52de2-1be0-4258-8f7e-19afeefb0393",
+        "text": "Word 15-11"
+      },
+      {
+        "wordId": "0fc2fed6-06a8-49db-87db-469d57166378",
+        "text": "Word 15-12"
+      },
+      {
+        "wordId": "0d9d62b6-13e0-49a5-8a8a-9375598844dd",
+        "text": "Word 15-13"
+      },
+      {
+        "wordId": "867c3a60-0146-4de7-99d6-af216e516e5f",
+        "text": "Word 15-14"
+      },
+      {
+        "wordId": "f66105bd-361d-43ac-b9fe-fe7d00d68a6d",
+        "text": "Word 15-15"
+      },
+      {
+        "wordId": "dde30f62-2062-4924-9954-fc0c5b88ceb5",
+        "text": "Word 15-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "88f7d9ba-fc14-4c9a-9002-2157c4b09052",
+    "title": "Category 16",
+    "mode": "PARTY",
+    "words": [
+      {
+        "wordId": "71a188fb-bbcd-409f-9e02-2c152e439749",
+        "text": "Word 16-1"
+      },
+      {
+        "wordId": "c5c63197-8558-4c37-9c5e-f23aec911a03",
+        "text": "Word 16-2"
+      },
+      {
+        "wordId": "b3eb7c62-76e0-4524-a3fd-09ef1e9f3c78",
+        "text": "Word 16-3"
+      },
+      {
+        "wordId": "cefba66a-dfd4-4cd7-8ef8-0269aad974c9",
+        "text": "Word 16-4"
+      },
+      {
+        "wordId": "b8e36ca3-cf08-4b13-b87c-23823a1ee820",
+        "text": "Word 16-5"
+      },
+      {
+        "wordId": "a8624624-aa9e-41c7-94dd-3f9addd2f407",
+        "text": "Word 16-6"
+      },
+      {
+        "wordId": "6d015978-81df-4580-891d-84b1dbc96313",
+        "text": "Word 16-7"
+      },
+      {
+        "wordId": "2fb2e1b5-1518-4950-882e-d257983e49ed",
+        "text": "Word 16-8"
+      },
+      {
+        "wordId": "458732c0-4d56-4497-b558-ec3f48609574",
+        "text": "Word 16-9"
+      },
+      {
+        "wordId": "4b730bd9-bfb3-494b-a9ad-484871a24b08",
+        "text": "Word 16-10"
+      },
+      {
+        "wordId": "7fa39903-65ef-4f96-8c07-867dc5da99a7",
+        "text": "Word 16-11"
+      },
+      {
+        "wordId": "4a87d92d-8633-4475-97d4-7d24005a0b36",
+        "text": "Word 16-12"
+      },
+      {
+        "wordId": "31faeaed-268d-4751-ba69-0be32b3542a2",
+        "text": "Word 16-13"
+      },
+      {
+        "wordId": "90dc1908-47de-4eda-b8a4-33e2ac445b79",
+        "text": "Word 16-14"
+      },
+      {
+        "wordId": "8d0d0fc3-e88c-430a-b306-c5f67d200965",
+        "text": "Word 16-15"
+      },
+      {
+        "wordId": "dac021d7-d35f-48f2-8325-099aa901d049",
+        "text": "Word 16-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "a53e6cb0-a189-472a-b91e-62468b9e7881",
+    "title": "Category 17",
+    "mode": "FAMILY",
+    "words": [
+      {
+        "wordId": "069bdcf6-d9af-437b-9fd2-6b0f0ec1acfc",
+        "text": "Word 17-1"
+      },
+      {
+        "wordId": "ed357321-eae6-4e19-816c-83dfc0b5dc84",
+        "text": "Word 17-2"
+      },
+      {
+        "wordId": "6234afc0-a93c-4757-955a-dbdd3646ce71",
+        "text": "Word 17-3"
+      },
+      {
+        "wordId": "abe4c581-cf87-482d-b780-a0d8ccb903df",
+        "text": "Word 17-4"
+      },
+      {
+        "wordId": "0a366e58-14a8-4f4a-bbcb-ed0ed3227186",
+        "text": "Word 17-5"
+      },
+      {
+        "wordId": "0252b3e3-d53a-417b-81ac-1cc4f0f0c26b",
+        "text": "Word 17-6"
+      },
+      {
+        "wordId": "85a4b398-cbcf-4d67-9e5f-2c7a5b04b234",
+        "text": "Word 17-7"
+      },
+      {
+        "wordId": "2bc780c3-8c95-4b17-bd7e-6725f3ebd4af",
+        "text": "Word 17-8"
+      },
+      {
+        "wordId": "5a12b414-7c58-44a2-a2e2-dd6479904c0c",
+        "text": "Word 17-9"
+      },
+      {
+        "wordId": "e3d977c9-ec8d-4005-9a44-0675bc7f0623",
+        "text": "Word 17-10"
+      },
+      {
+        "wordId": "10b61556-aa89-4820-8d36-88809c87a4ba",
+        "text": "Word 17-11"
+      },
+      {
+        "wordId": "0bb74e86-7286-43f4-97fa-703654a18a44",
+        "text": "Word 17-12"
+      },
+      {
+        "wordId": "c45298fd-f11c-47ee-a77d-8248708b75c6",
+        "text": "Word 17-13"
+      },
+      {
+        "wordId": "29d72e09-9056-4fa4-b7da-8b1117bf6276",
+        "text": "Word 17-14"
+      },
+      {
+        "wordId": "ef4f1479-ceeb-4a32-98bd-5cd9fff96da8",
+        "text": "Word 17-15"
+      },
+      {
+        "wordId": "025be3c6-c645-4c94-a069-14e7d8551a32",
+        "text": "Word 17-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "8bfd83e5-757c-4d73-826a-5a31b3f3c4c9",
+    "title": "Category 18",
+    "mode": "PARTY",
+    "words": [
+      {
+        "wordId": "a016fcf9-74f0-46d8-9e26-3c935d49e1ed",
+        "text": "Word 18-1"
+      },
+      {
+        "wordId": "4ac6dd17-5d8b-475c-998e-3a6056909038",
+        "text": "Word 18-2"
+      },
+      {
+        "wordId": "f0bfbb49-e505-4f92-8edb-0a1e532e536b",
+        "text": "Word 18-3"
+      },
+      {
+        "wordId": "bc877323-45a4-4df7-9012-d3bfb1718b8f",
+        "text": "Word 18-4"
+      },
+      {
+        "wordId": "d8604c06-07db-4a41-866a-a2b1a1383b09",
+        "text": "Word 18-5"
+      },
+      {
+        "wordId": "ffe0c43c-a7a9-439e-9ff6-76a9d10c77d1",
+        "text": "Word 18-6"
+      },
+      {
+        "wordId": "755acdf7-758d-4c5a-8f76-4cd371e55ad8",
+        "text": "Word 18-7"
+      },
+      {
+        "wordId": "932fccf4-d510-45b2-9dd7-5c15989fe2c2",
+        "text": "Word 18-8"
+      },
+      {
+        "wordId": "5387e2ab-35f9-4b33-8872-12565dd3f534",
+        "text": "Word 18-9"
+      },
+      {
+        "wordId": "f919402c-6b00-4600-8fa5-25052027ad14",
+        "text": "Word 18-10"
+      },
+      {
+        "wordId": "fbb0c8ea-f0a4-4f84-a2e5-f196c330e296",
+        "text": "Word 18-11"
+      },
+      {
+        "wordId": "3d9a4ef4-e6a5-444d-9830-00a38ccfd024",
+        "text": "Word 18-12"
+      },
+      {
+        "wordId": "141ad12c-b12f-43de-bd8f-7eccda7877df",
+        "text": "Word 18-13"
+      },
+      {
+        "wordId": "e39b2faa-c954-4e16-9415-f02e73c8ff6c",
+        "text": "Word 18-14"
+      },
+      {
+        "wordId": "d28036ce-04a9-4b64-a2df-d577c5216e6e",
+        "text": "Word 18-15"
+      },
+      {
+        "wordId": "4b5aee9f-b148-4fcb-a421-23e241bda791",
+        "text": "Word 18-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "3c757b42-d9b2-4369-93f7-9011cbe53d2f",
+    "title": "Category 19",
+    "mode": "FAMILY",
+    "words": [
+      {
+        "wordId": "e79fed68-2b5f-4f11-81e3-b79b0ac3b0d5",
+        "text": "Word 19-1"
+      },
+      {
+        "wordId": "1764e283-68ce-46fa-8b25-4f952c3ace02",
+        "text": "Word 19-2"
+      },
+      {
+        "wordId": "f2abae97-e515-4924-ace3-2db90120190a",
+        "text": "Word 19-3"
+      },
+      {
+        "wordId": "854ef41d-3c50-45ff-bf54-69920503f39f",
+        "text": "Word 19-4"
+      },
+      {
+        "wordId": "08ac6120-3396-4422-96af-8679b02d28e7",
+        "text": "Word 19-5"
+      },
+      {
+        "wordId": "794be226-6367-4c12-b4b3-aa7df054d28a",
+        "text": "Word 19-6"
+      },
+      {
+        "wordId": "0e03db65-d8cd-4c7f-bf0e-e47e0ff34321",
+        "text": "Word 19-7"
+      },
+      {
+        "wordId": "e5d6bfc9-aa89-4c08-a77f-5cf8bb274b6f",
+        "text": "Word 19-8"
+      },
+      {
+        "wordId": "2c8f4a2b-5b2d-4742-a4ea-fc276b93673b",
+        "text": "Word 19-9"
+      },
+      {
+        "wordId": "7be8a542-2591-4da8-8529-bc22fbb3232f",
+        "text": "Word 19-10"
+      },
+      {
+        "wordId": "f9731abd-af99-460f-ad6a-0c102a13f769",
+        "text": "Word 19-11"
+      },
+      {
+        "wordId": "48e4c28c-bf45-4538-9b69-03002533ddc7",
+        "text": "Word 19-12"
+      },
+      {
+        "wordId": "652dd313-5035-4f4d-aac5-a7cc02210ac9",
+        "text": "Word 19-13"
+      },
+      {
+        "wordId": "45b678fc-1fad-4367-bf72-1b07dc22e1c6",
+        "text": "Word 19-14"
+      },
+      {
+        "wordId": "3f98678a-4ae6-482c-b946-2747404134b7",
+        "text": "Word 19-15"
+      },
+      {
+        "wordId": "d11e9637-11a0-411a-8c73-516bca8507b3",
+        "text": "Word 19-16"
+      }
+    ]
+  },
+  {
+    "categoryId": "eb8933ee-7879-4ed9-970c-12232b44661e",
+    "title": "Category 20",
+    "mode": "PARTY",
+    "words": [
+      {
+        "wordId": "da7c70cc-606b-4fe1-a1a0-78d5f26000d6",
+        "text": "Word 20-1"
+      },
+      {
+        "wordId": "c2057626-72bd-492e-8084-970748e7027c",
+        "text": "Word 20-2"
+      },
+      {
+        "wordId": "1539eb8f-dced-4f15-90fb-8fd7757f2505",
+        "text": "Word 20-3"
+      },
+      {
+        "wordId": "2ab9de72-f4f9-479c-9559-3561b9db4ae1",
+        "text": "Word 20-4"
+      },
+      {
+        "wordId": "c88d042b-9211-4310-837e-15ada06aa16c",
+        "text": "Word 20-5"
+      },
+      {
+        "wordId": "f51f7723-818b-4d2f-8fcb-d745211a059d",
+        "text": "Word 20-6"
+      },
+      {
+        "wordId": "c84d89d6-ea61-4b24-9ae4-8f55e1bafff3",
+        "text": "Word 20-7"
+      },
+      {
+        "wordId": "765100e0-7d0b-4c9e-a2d8-8c2a3944cfa1",
+        "text": "Word 20-8"
+      },
+      {
+        "wordId": "abbe6361-8293-41f5-8d41-8ab04a3907fc",
+        "text": "Word 20-9"
+      },
+      {
+        "wordId": "f5759753-0cf3-4e18-83cb-fa9b8f993b98",
+        "text": "Word 20-10"
+      },
+      {
+        "wordId": "3aa06318-98f8-4712-8d17-4ae24cd6fa64",
+        "text": "Word 20-11"
+      },
+      {
+        "wordId": "0721ad82-69e1-4bf6-918c-92d74d3a98d5",
+        "text": "Word 20-12"
+      },
+      {
+        "wordId": "21c49d16-42d4-4ead-873a-3200279ab9ab",
+        "text": "Word 20-13"
+      },
+      {
+        "wordId": "01c3bc38-cdf1-4400-a0bc-c62ca04613a9",
+        "text": "Word 20-14"
+      },
+      {
+        "wordId": "8cda7389-0717-4c1a-bc6b-0d7cf9632d2f",
+        "text": "Word 20-15"
+      },
+      {
+        "wordId": "03408b31-bef6-4c20-9013-ff74034fd146",
+        "text": "Word 20-16"
+      }
+    ]
+  }
+]
