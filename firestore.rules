@@ -16,10 +16,26 @@ service cloud.firestore {
       allow write: if request.auth.uid == playerId;
     }
 
+    function roomPhase(roomId) {
+      return get(/databases/$(database)/documents/rooms/$(roomId)).data.phase;
+    }
+
+    function isSelfWrite(field) {
+      return request.resource.data[field].keys().hasOnly([request.auth.uid]);
+    }
+
     match /rooms/{roomId}/rounds/{roundId} {
       allow read: if isRoomMember(roomId);
-      // phase-gated writes handled via security rules
-      allow update: if isRoomMember(roomId);
+
+      allow update: if isRoomMember(roomId) && (
+        (roomPhase(roomId) == 'clue' &&
+          request.resource.data.keys().hasOnly(['clues']) &&
+          isSelfWrite('clues')) ||
+        (roomPhase(roomId) == 'vote' &&
+          request.resource.data.keys().hasOnly(['votes']) &&
+          isSelfWrite('votes'))
+      );
+
       allow create, delete: if false;
     }
 
